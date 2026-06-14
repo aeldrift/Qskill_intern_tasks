@@ -53,16 +53,6 @@ Classes:
 
 K-Nearest Neighbors (KNN)
 
-## Output
-
-### Scatter Plot
-
-![Scatter Plot](plots/scatter_plot.png)
-
-### Confusion Matrix
-
-![Confusion Matrix](plots/confusion_matrix.png)
-
 ## Run
 
 ```bash
